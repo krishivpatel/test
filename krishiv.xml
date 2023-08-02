@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FruityWifi>
+    <module>
+        <name>bluepand</name>
+        <version>1.0</version>
+        <author>@AnguisCaptor</author>
+        <description>BluePand interface</description>
+        <url>module_bluepand</url>
+        <required>2.1</required>
+    </module>
+    <module>
+        <name>stalker</name>
+        <version>1.0</version>
+        <author>@xtr4nge</author>
+        <description>Stalker interface</description>
+        <url>module_stalker</url>
+        <required>2.1</required>
+    </module>
+    <module>
+        <name>devicefinder</name>
+        <version>1.0</version>
+        <author>@xtr4nge</author>
+        <description>DeviceFinder interface</description>
+        <url>module_devicefinder</url>
+        <required>2.1</required>
+    </module>
+    <module>
+        <name>mgmt</name>
+        <version>1.1</version>
+        <author>@xtr4nge</author>
+        <description>mgmt interface</description>
+        <url>module_mgmt</url>
+        <required>2.2</required>
+    </module>
+    <module>
+        <name>tapper</name>
+        <version>1.1</version>
+        <author>@xtr4nge</author>
+        <description>tapper interface</description>
+        <url>module_tapper</url>
+        <required>2.2</required>
+    </module>
+    <module>
+        <name>openvpn</name>
+        <version>1.0</version>
+        <author>@xtr4nge</author>
+        <description>openvpn interface</description>
+        <url>module_openvpn</url>
+        <required>2.2</required>
+    </module>
+    <module>
+        <name>wifirecon</name>
+        <version>1.0</version>
+        <author>@xtr4nge</author>
+        <description>WiFiRecon interface</description>
+        <url>module_api</url>
+        <required>2.3</required>
+    </module>
+</FruityWifi>
